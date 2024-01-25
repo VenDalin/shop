@@ -1,0 +1,19 @@
+C:\Users\User\source\repos\HR Menagement System form\Shop management system\bin\Debug\ShopDB.mdf
+C:\Users\User\source\repos\HR Menagement System form\Shop management system\bin\Debug\ShopDB_log.ldf
+C:\Users\User\source\repos\HR Menagement System form\Shop management system\bin\Debug\Shop management system.exe.config
+C:\Users\User\source\repos\HR Menagement System form\Shop management system\bin\Debug\Shop management system.exe
+C:\Users\User\source\repos\HR Menagement System form\Shop management system\bin\Debug\Shop management system.pdb
+C:\Users\User\source\repos\HR Menagement System form\Shop management system\obj\Debug\Shop management system.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\HR Menagement System form\Shop management system\obj\Debug\Shop management system.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\HR Menagement System form\Shop management system\obj\Debug\Shop_management_system.Form2.resources
+C:\Users\User\source\repos\HR Menagement System form\Shop management system\obj\Debug\Shop_management_system.loginForm.resources
+C:\Users\User\source\repos\HR Menagement System form\Shop management system\obj\Debug\Shop_management_system.MainForm.resources
+C:\Users\User\source\repos\HR Menagement System form\Shop management system\obj\Debug\Shop_management_system.Properties.Resources.resources
+C:\Users\User\source\repos\HR Menagement System form\Shop management system\obj\Debug\Shop management system.csproj.GenerateResource.cache
+C:\Users\User\source\repos\HR Menagement System form\Shop management system\obj\Debug\Shop management system.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HR Menagement System form\Shop management system\obj\Debug\Shop management system.csproj.CopyComplete
+C:\Users\User\source\repos\HR Menagement System form\Shop management system\obj\Debug\Shop management system.exe
+C:\Users\User\source\repos\HR Menagement System form\Shop management system\obj\Debug\Shop management system.pdb
+C:\Users\User\source\repos\HR Menagement System form\Shop management system\obj\Debug\Shop_management_system.ProductForm.resources
+C:\Users\User\source\repos\HR Menagement System form\Shop management system\obj\Debug\Shop_management_system.ucProduct.resources
+C:\Users\User\source\repos\HR Menagement System form\Shop management system\obj\Debug\Shop_management_system.frmSell.resources
